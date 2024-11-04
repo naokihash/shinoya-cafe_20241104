@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="240" fill="#1B4332"/>
+  <path d="M140 160 H372 V180 H140 Z" fill="white"/>
+  <path d="M180 220 H332 V240 H180 Z" fill="white"/>
+  <path d="M220 280 H292 V300 H220 Z" fill="white"/>
+  <path d="M160 340 H352 V360 H160 Z" fill="white"/>
+</svg>
